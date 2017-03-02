@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\raajit\documents\visual studio 2013\projects\swell\swell\obj\debug\intermediatexaml\swell.exe" HashGuid="acc42765-b406-a19a-4ee0-e989bb98d79a" />
+    <ReferenceAssembly PathName="c:\users\raajit\documents\visual studio 2013\projects\swell\core\bin\debug\core.dll" HashGuid="40b8e580-f86d-a9e1-105f-0a9eb00fdd53" />
+    <ReferenceAssembly PathName="c:\users\raajit\documents\visual studio 2013\projects\swell\packages\winrtxamltoolkit.windowsphone.1.7.4.0\lib\wpa\winrtxamltoolkit.dll" HashGuid="8e147034-4cfb-5f8a-fc1c-4c177ce2e063" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

@@ -1,0 +1,2 @@
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\Core.csproj;neutral
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Swell\Swell.csproj;neutral

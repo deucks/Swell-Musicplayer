@@ -1,0 +1,16 @@
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\bin\Debug\Core.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\bin\Debug\Core.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\bin\Debug\Core.pri
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\Core.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\Core.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\priconfig.xml
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\priconfig.xml.intermediate
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\layout.resfiles
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\layout.resfiles.intermediate
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\resources.resfiles
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\resources.resfiles.intermediate
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\pri.resfiles
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\pri.resfiles.intermediate
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\qualifiers.txt
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Swell\Core\obj\Debug\MultipleQualifiersPerDimensionFound.txt
